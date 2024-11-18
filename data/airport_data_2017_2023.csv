@@ -1,0 +1,350 @@
+Rank,Airport,Location,Country,Total_passengers,Rank_change,Percent_change,IATA,ICAO,Year
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,103902992,,0.3,ATL,KATL,2017
+2,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,95786442,,1.5,PEK,ZBAA,2017
+3,Dubai International Airport,"Garhoud, Dubai",United Arab Emirates,88242099,,5.5,DXB,OMDB,2017
+4,Los Angeles International Airport,"Los Angeles, California",United States,84557968,,4.5,LAX,KLAX,2017
+5,O'Hare International Airport,"Chicago, Illinois",United States,79828183,,2.4,ORD,KORD,2017
+6,Heathrow Airport,"Hillingdon, London",United Kingdom,78014598,,3.0,LHR,EGLL,2017
+7,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,76476251,2.0,4.0,HND,RJTT,2017
+8,Hong Kong International Airport,"Chek Lap Kok, Islands, New Territories",China,72665078,,3.4,HKG,VHHH,2017
+9,Shanghai Pudong International Airport,"Pudong, Shanghai",China,70001237,,6.1,PVG,ZSPD,2017
+10,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,69471442,,5.4,CDG,LFPG,2017
+11,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",The Netherlands,68515425,1.0,7.7,AMS,EHAM,2017
+12,Dallas/Fort Worth International Airport,"Dallas-Fort Worth, Texas",United States,67092194,1.0,2.3,DFW,KDFW,2017
+13,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,65887473,2.0,10.3,CAN,ZGGG,2017
+14,Frankfurt Airport,"Frankfurt, Hesse",Germany,64500386,1.0,6.1,FRA,EDDF,2017
+15,Istanbul Atatürk Airport,"Yeşilköy, Istanbul",Turkey,63859785,1.0,5.9,IST,LTBA,2017
+16,Indira Gandhi International Airport,Delhi,India,63451503,5.0,14.1,DEL,VIDP,2017
+17,Soekarno-Hatta International Airport,"Tangerang, Banten",Indonesia,63015620,5.0,8.3,CGK,WIII,2017
+18,Singapore Changi Airport,"Changi, East Region",Singapore,62220000,1.0,6.0,SIN,WSSS,2017
+19,Seoul Incheon International Airport,Incheon,Republic of Korea,62157834,,7.5,ICN,RKSI,2017
+20,Denver International Airport,"Denver, Colorado",United States,61379396,2.0,5.3,DEN,KDEN,2017
+21,Suvarnabhumi Airport,"Bang Phli, Samut Prakan",Thailand,60860557,1.0,8.9,BKK,VTBS,2017
+22,John F. Kennedy International Airport,"Queens, New York, New York",United States,59392500,6.0,0.5,JFK,KJFK,2017
+23,Kuala Lumpur International Airport,"Sepang, Selangor",Malaysia,58558440,1.0,11.2,KUL,WMKK,2017
+24,San Francisco International Airport,"San Mateo County, California",United States,55822129,1.0,5.1,SFO,KSFO,2017
+25,Madrid Barajas Airport,"Barajas, Madrid",Spain,53386075,,5.9,MAD,LEMD,2017
+26,Chengdu Shuangliu International Airport,"Shuangliu-Wuhou, Chengdu, Sichuan",China,49801693,1.0,8.2,CTU,ZUUU,2017
+27,McCarran International Airport,"Las Vegas, Nevada",United States,48566803,1.0,2.3,LAS,KLAS,2017
+28,Barcelona–El Prat Airport,Barcelona,Spain,47262826,5.0,7.1,BCN,LEBL,2017
+29,Chhatrapati Shivaji Maharaj International Airport,"Mumbai, Maharashtra",India,47204259,,5.7,BOM,VABB,2017
+30,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,47054696,2.0,6.2,YYZ,CYYZ,2017
+31,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,46934194,3.0,2.6,SEA,KSEA,2017
+32,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,45909899,1.0,3.4,CLT,KCLT,2017
+33,London Gatwick Airport,"Crawley, West Sussex",United Kingdom,45561694,2.0,5.3,LGW,EGKK,2017
+34,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,45558409,6.0,8.5,SZX,ZGSZ,2017
+35,Taiwan Taoyuan International Airport,"Dayuan, Taoyuan",Taiwan,44878703,1.0,6.1,TPE,RCTP,2017
+36,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,44732418,8.0,8.0,MEX,MMMX,2017
+37,Kunming Changshui International Airport,"Guandu, Kunming, Yunnan",China,44729736,2.0,6.6,KMG,ZPPP,2017
+38,Munich Airport,"Freising, Bavaria",Germany,44577241,1.0,5.5,MUC,EDDM,2017
+39,Orlando International Airport,"Orlando, Florida",United States,44511265,2.0,6.2,MCO,KMCO,2017
+40,Miami International Airport,"Miami-Dade County, Florida",United States,44071313,10.0,1.2,MIA,KMIA,2017
+41,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,43921670,7.0,1.2,PHX,KPHX,2017
+42,Sydney Kingsford-Smith Airport,"Mascot, Sydney, New South Wales",Australia,43410355,4.0,3.4,SYD,YSSY,2017
+43,Newark Liberty International Airport,"Newark, New Jersey",United States,43393499,3.0,7.0,EWR,KEWR,2017
+44,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,42022484,3.0,6.2,MNL,RPLL,2017
+45,Shanghai Hongqiao International Airport,"Changning-Minhang, Shanghai",China,41884059,,3.5,SHA,ZSSS,2017
+46,Xi'an Xianyang International Airport,"Weicheng, Xianyang, Shaanxi",China,41857406,,13.2,XIY,ZLXY,2017
+47,"Rome–Fiumicino International Airport ""Leonardo da Vinci""","Rome-Fiumicino, Lazio",Italy,40968756,5.0,1.8,FCO,LIRF,2017
+48,George Bush Intercontinental Airport,"Houston, Texas",United States,40696189,5.0,2.2,IAH,KIAH,2017
+49,Narita International Airport,"Narita, Chiba",Japan,40631193,1.0,4.2,NRT,RJAA,2017
+50,Sheremetyevo International Airport,"Khimki, Moscow Oblast",Russia,40092806,,17.8,SVO,UUEE,2017
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,107394029,,3.3,ATL,KATL,2018
+2,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,100983290,,5.4,PEK,ZBAA,2018
+3,Dubai International Airport,"Garhoud, Dubai",United Arab Emirates,89149387,,1.0,DXB,OMDB,2018
+4,Los Angeles International Airport,"Los Angeles, California",United States,87534384,1.0,3.5,LAX,KLAX,2018
+5,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,86942794,1.0,4.4,HND,RJTT,2018
+6,O'Hare International Airport,"Chicago, Illinois",United States,83245472,,4.3,ORD,KORD,2018
+7,Heathrow Airport,"Hillingdon, London",United Kingdom,80126320,,2.7,LHR,EGLL,2018
+8,Hong Kong International Airport,"Chek Lap Kok, Islands, New Territories",China,74515927,,2.6,HKG,VHHH,2018
+9,Shanghai Pudong International Airport,"Pudong, Shanghai",China,74006331,,5.7,PVG,ZSPD,2018
+10,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,72229723,,4.0,CDG,LFPG,2018
+11,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,71053147,,3.7,AMS,EHAM,2018
+12,Indira Gandhi International Airport,Delhi,India,69900938,4.0,10.2,DEL,VIDP,2018
+13,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,69743211,,5.9,CAN,ZGGG,2018
+14,Frankfurt Airport,"Frankfurt, Hesse",Germany,69510269,,7.8,FRA,EDDF,2018
+15,Dallas/Fort Worth International Airport,"Dallas-Fort Worth, Texas",United States,69112607,3.0,3.0,DFW,KDFW,2018
+16,Istanbul Atatürk Airport,"Yeşilköy, Istanbul",Turkey,68360648,1.0,6.6,IST,LTBA,2018
+17,Seoul Incheon International Airport,Incheon,South Korea,68350784,2.0,10.0,ICN,RKSI,2018
+18,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,65667506,1.0,6.2,CGK,WIII,2018
+19,Singapore Changi Airport,"Changi, East Region",Singapore,65628000,1.0,5.5,SIN,WSSS,2018
+20,Denver International Airport,"Denver, Colorado",United States,64494613,,5.1,DEN,KDEN,2018
+21,Suvarnabhumi Airport,"Bang Phli, Samut Prakan",Thailand,63378923,,4.1,BKK,VTBS,2018
+22,John F. Kennedy International Airport,"Queens, New York, New York",United States,61623756,,3.6,JFK,KJFK,2018
+23,Kuala Lumpur International Airport,"Sepang, Selangor",Malaysia,60013397,,2.5,KUL,WMKK,2018
+24,Madrid Barajas Airport,"Barajas, Madrid",Spain,57862951,1.0,8.4,MAD,LEMD,2018
+25,San Francisco International Airport,"San Mateo County, California",United States,57708196,1.0,3.4,SFO,KSFO,2018
+26,Chengdu Shuangliu International Airport,"Shuangliu-Wuhou, Chengdu, Sichuan",China,52950529,,6.3,CTU,ZUUU,2018
+27,Barcelona–El Prat Airport,Barcelona,Spain,50148228,1.0,6.1,BCN,LEBL,2018
+28,Chhatrapati Shivaji Maharaj International Airport,"Mumbai, Maharashtra",India,49876769,1.0,5.7,BOM,VABB,2018
+29,McCarran International Airport,"Las Vegas, Nevada",United States,49863090,2.0,2.7,LAS,KLAS,2018
+30,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,49849520,1.0,6.2,SEA,KSEA,2018
+31,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,49467097,1.0,5.0,YYZ,CYYZ,2018
+32,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,49348950,2.0,8.3,SZX,ZGSZ,2018
+33,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,47700834,3.0,6.6,MEX,MMMX,2018
+34,Orlando International Airport,"Orlando, Florida",United States,47694573,5.0,7.2,MCO,KMCO,2018
+35,Kunming Changshui International Airport,"Guandu, Kunming, Yunnan",China,47215986,2.0,5.6,KMG,ZPPP,2018
+36,Taiwan Taoyuan International Airport,"Dayuan, Taoyuan",Taiwan,46535180,1.0,3.7,TPE,RCTP,2018
+37,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,46446721,5.0,1.2,CLT,KCLT,2018
+38,London Gatwick Airport,"Crawley, West Sussex",United Kingdom,46432630,6.0,1.9,LGW,EGKK,2018
+39,Munich Airport,"Freising, Bavaria",Germany,46253623,1.0,3.8,MUC,EDDM,2018
+40,Newark Liberty International Airport,"Newark, New Jersey",United States,46065175,3.0,6.6,EWR,KEWR,2018
+41,Sheremetyevo International Airport,"Khimki, Moscow Oblast",Russia,45836255,9.0,14.3,SVO,UUEE,2018
+42,Miami International Airport,"Miami-Dade County, Florida",United States,45044312,2.0,2.1,MIA,KMIA,2018
+43,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,44943686,2.0,2.3,PHX,KPHX,2018
+44,Xi'an Xianyang International Airport,"Weicheng, Xianyang, Shaanxi",China,44653927,2.0,6.7,XIY,ZLXY,2018
+45,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,44488321,1.0,5.9,MNL,RPLL,2018
+46,Sydney Kingsford-Smith Airport,"Mascot, New South Wales",Australia,44475976,4.0,2.5,SYD,YSSY,2018
+47,George Bush Intercontinental Airport,"Houston, Texas",United States,43807539,1.0,7.7,IAH,KIAH,2018
+48,Shanghai Hongqiao International Airport,"Changning-Minhang, Shanghai",China,43628004,3.0,4.2,SHA,ZSSS,2018
+49,"Rome–Fiumicino International Airport ""Leonardo da Vinci""","Rome-Fiumicino, Lazio",Italy,42991056,2.0,4.9,FCO,LIRF,2018
+50,Narita International Airport,"Narita, Chiba",Japan,42549173,1.0,4.7,NRT,RJAA,2018
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,110531300,,2.9,ATL,KATL,2019
+2,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,100011438,,1.0,PEK,ZBAA,2019
+3,Los Angeles International Airport,"Los Angeles, California",United States,88068013,1.0,0.6,LAX,KLAX,2019
+4,Dubai International Airport,"Garhoud, Dubai",United Arab Emirates,86396757,1.0,3.1,DXB,OMDB,2019
+5,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,85505054,,1.7,HND,RJTT,2019
+6,O'Hare International Airport,"Chicago, Illinois",United States,84649115,,1.7,ORD,KORD,2019
+7,Heathrow Airport,"Hillingdon, London",United Kingdom,80888305,,1.0,LHR,EGLL,2019
+8,Shanghai Pudong International Airport,"Pudong, Shanghai",China,76153455,1.0,2.9,PVG,ZSPD,2019
+9,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,76150009,1.0,5.4,CDG,LFPG,2019
+10,Dallas/Fort Worth International Airport,"Dallas-Fort Worth, Texas",United States,75066956,5.0,8.6,DFW,KDFW,2019
+11,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,73386153,2.0,5.2,CAN,ZGGG,2019
+12,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,71706999,1.0,0.9,AMS,EHAM,2019
+13,Hong Kong International Airport,"Chek Lap Kok, New Territories",Hong Kong,71415245,5.0,4.2,HKG,VHHH,2019
+14,Seoul Incheon International Airport,Incheon,South Korea,71204153,3.0,4.2,ICN,RKSI,2019
+15,Frankfurt Airport,"Frankfurt, Hesse",Germany,70556072,1.0,1.5,FRA,EDDF,2019
+16,Denver International Airport,"Denver, Colorado",United States,69015703,4.0,7.0,DEN,KDEN,2019
+17,Indira Gandhi International Airport,Delhi,India,68490731,5.0,2.0,DEL,VIDP,2019
+18,Singapore Changi Airport,"Changi, East Region",Singapore,68283000,1.0,4.0,SIN,WSSS,2019
+19,Suvarnabhumi Airport,"Bang Phli, Samut Prakan",Thailand,65421844,2.0,3.2,BKK,VTBS,2019
+20,John F. Kennedy International Airport,"Queens, New York, New York",United States,62551072,2.0,1.5,JFK,KJFK,2019
+21,Kuala Lumpur International Airport,"Sepang, Selangor",Malaysia,62336469,2.0,3.9,KUL,WMKK,2019
+22,Madrid Barajas Airport,"Barajas, Madrid",Spain,61707469,2.0,6.6,MAD,LEMD,2019
+23,San Francisco International Airport,"San Mateo County, California",United States,57418574,2.0,0.6,SFO,KSFO,2019
+24,Chengdu Shuangliu International Airport,"Shuangliu-Wuhou, Chengdu, Sichuan",China,55858552,2.0,5.5,CTU,ZUUU,2019
+25,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,54496625,7.0,17.0,CGK,WIII,2019
+26,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,52931925,6.0,7.3,SZX,ZGSZ,2019
+27,Barcelona–El Prat Airport,Barcelona,Spain,52663623,,5.0,BCN,LEBL,2019
+29,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,51829239,,4.0,SEA,KSEA,2019
+30,McCarran International Airport,"Las Vegas, Nevada",United States,51691066,,3.7,LAS,KLAS,2019
+31,Orlando International Airport,"Orlando, Florida",United States,50613072,3.0,6.1,MCO,KMCO,2019
+32,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,50496804,1.0,2.0,YYZ,CYYZ,2019
+33,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,50308049,,5.5,MEX,MMMX,2019
+34,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,50168783,3.0,8.0,CLT,KCLT,2019
+35,Sheremetyevo International Airport,"Khimki, Moscow Oblast",Russia,49932752,6.0,8.9,SVO,UUEE,2019
+36,Taiwan Taoyuan International Airport,"Dayuan, Taoyuan",Taiwan,48689372,,4.6,TPE,RCTP,2019
+37,Kunming Changshui International Airport,"Guandu, Kunming, Yunnan",China,48076238,2.0,2.1,KMG,ZPPP,2019
+38,Munich Airport,"Freising, Bavaria",Germany,47941348,,3.7,MUC,EDDM,2019
+39,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,47898046,3.0,6.4,MNL,RPLL,2019
+40,Xi'an Xianyang International Airport,"Weicheng, Xianyang, Shaanxi",China,47220547,5.0,5.6,XIY,ZLXY,2019
+41,Chhatrapati Shivaji Maharaj International Airport,"Mumbai, Maharashtra",India,47055740,13.0,5.7,BOM,VABB,2019
+42,London Gatwick Airport,"Crawley, West Sussex",United Kingdom,46576473,3.0,0.3,LGW,EGKK,2019
+43,Newark Liberty International Airport,"Newark, New Jersey",United States,46336452,3.0,1.1,EWR,KEWR,2019
+44,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,46287790,,3.0,PHX,KPHX,2019
+45,Miami International Airport,"Miami-Dade County, Florida",United States,45924466,2.0,2.0,MIA,KMIA,2019
+46,Shanghai Hongqiao International Airport,"Changning-Minhang, Shanghai",China,45637882,2.0,4.6,SHA,ZSSS,2019
+47,George Bush Intercontinental Airport,"Houston, Texas",United States,44990399,,3.4,IAH,KIAH,2019
+48,Chongqing Jiangbei International Airport,"Yubei, Chongqing",China,44786722,,7.7,CKG,ZUCK,2019
+49,Sydney Kingsford-Smith Airport,"Mascot, New South Wales",Australia,44446838,3.0,0.1,SYD,YSSY,2019
+50,Narita International Airport,"Narita, Chiba",Japan,44340847,,4.2,NRT,RJAA,2019
+1,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,43767558,10.0,40.4,CAN,ZGGG,2020
+2,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,42918685,1.0,61.2,ATL,KATL,2020
+3,Chengdu Shuangliu International Airport,"Shuangliu-Wuhou, Chengdu, Sichuan",China,40741509,21.0,27.1,CTU,ZUUU,2020
+4,Dallas Fort Worth International Airport,"Dallas-Fort Worth, Texas",United States,39364990,6.0,47.6,DFW,KDFW,2020
+5,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,37916054,21.0,28.4,SZX,ZGSZ,2020
+6,Chongqing Jiangbei International Airport,"Yubei, Chongqing",China,34937789,42.0,22.0,CKG,ZUCK,2020
+7,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,34513827,5.0,65.5,PEK,ZBAA,2020
+8,Denver International Airport,"Denver, Colorado",United States,33741129,8.0,51.1,DEN,KDEN,2020
+9,Kunming Changshui International Airport,"Guandu, Kunming, Yunnan",China,32990805,28.0,31.4,KMG,ZPPP,2020
+10,Shanghai Hongqiao International Airport,"Changning-Minhang, Shanghai",China,31165641,36.0,31.7,SHA,ZSSS,2020
+11,Xi'an Xianyang International Airport,"Weicheng, Xianyang, Shaanxi",China,31073924,29.0,34.2,XIY,ZLXY,2020
+12,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,31055210,7.0,63.7,HND,RJTT,2020
+13,O'Hare International Airport,"Chicago, Illinois",United States,30860251,7.0,63.5,ORD,KORD,2020
+14,Shanghai Pudong International Airport,"Pudong, Shanghai",China,30476531,6.0,60.0,PVG,ZSPD,2020
+15,Los Angeles International Airport,"Los Angeles, California",United States,28779527,12.0,67.3,LAX,KLAX,2020
+16,Indira Gandhi International Airport,Delhi,India,28500545,1.0,58.4,DEL,VIDP,2020
+17,Hangzhou Xiaoshan International Airport,"Xiaoshan, Hangzhou, Zhejiang",China,28224342,39.0,30.6,HGH,ZSHC,2020
+18,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,27205082,16.0,45.6,CLT,KCLT,2020
+19,Dubai International Airport,"Garhoud, Dubai",United Arab Emirates,25836771,15.0,70.1,DXB,OMDB,2020
+20,Istanbul Airport,"Arnavutköy, Istanbul",Turkey,23330411,8.0,55.3,IST,LTFM,2020
+21,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,22257469,12.0,70.8,CDG,LFPG,2020
+22,McCarran International Airport,"Las Vegas, Nevada",United States,22255395,8.0,57.0,LAS,KLAS,2020
+23,Heathrow Airport,"Hillingdon, London",United Kingdom,22111469,16.0,72.7,LHR,EGLL,2020
+24,Tan Son Nhat International Airport,"Tan Binh, Ho Chi Minh City",Vietnam,22062893,31.0,49.5,SGN,VVTS,2020
+25,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,21981711,8.0,56.3,MEX,MMMX,2020
+26,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,21928708,18.0,52.6,PHX,KPHX,2020
+27,Orlando International Airport,"Orlando, Florida",United States,21617803,5.0,57.3,MCO,KMCO,2020
+28,Zhengzhou Xinzheng International Airport,"Xinzheng, Zhengzhou, Henan",China,21406709,,26.5,CGO,ZHCC,2020
+29,Jeju International Airport,"Jeju City, Jeju Province",South Korea,21054854,,32.8,CJU,RKPC,2020
+30,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,20887144,18.0,70.9,AMS,EHAM,2020
+31,São Paulo/Guarulhos International Airport,Guarulhos,Brazil,20359547,21.0,52.9,GRU,SBGR,2020
+32,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,20061507,3.0,61.3,SEA,KSEA,2020
+33,Nanjing Lukou International Airport,"Jiangning District, Nanjing, Jiangsu",China,19906576,,34.9,NKG,ZSNJ,2020
+34,Sheremetyevo International Airport,"Khimki, Moscow Oblast",Russia,19783957,1.0,60.4,SVO,UUEE,2020
+35,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,19332468,10.0,64.5,CGK,WIII,2020
+36,Changsha Huanghua International Airport,"Huanghua, Changsha, Hunan",China,19223825,,28.6,CSX,ZGHA,2020
+37,Frankfurt Airport,"Frankfurt, Hesse",Germany,18768601,22.0,73.4,FRA,EDDF,2020
+38,Miami International Airport,"Miami-Dade County, Florida",United States,18663858,7.0,59.4,MIA,KMIA,2020
+39,George Bush Intercontinental Airport,"Houston, Texas",United States,18213913,8.0,59.8,IAH,KIAH,2020
+40,Gimpo International Airport,"Gangseo District, Seoul",South Korea,17446239,,31.4,GMP,RKSS,2020
+41,Madrid Barajas Airport,"Barajas, Madrid",Spain,17094817,19.0,72.3,MAD,LEMD,2020
+42,Istanbul Sabiha Gökçen International Airport,"Pendik, Istanbul",Turkey,16982456,,52.1,SAW,LTFJ,2020
+43,Xiamen Gaoqi International Airport,"Huli District, Xiamen, Fujian",China,16710197,,39.0,XMN,ZSAM,2020
+44,Suvarnabhumi Airport,"Bang Phli, Samut Prakan",Thailand,16706235,25.0,74.5,BKK,VTBS,2020
+45,John F. Kennedy International Airport,"Queens, New York, New York",United States,16630642,25.0,73.4,JFK,KJFK,2020
+46,Guiyang Longdongbao International Airport,"Nanming District, Guiyang, Guizhou",China,16583878,,24.3,KWE,ZUGY,2020
+47,Haikou Meilan International Airport,"Lingshan, Haikou, Hainan",China,16490216,,31.9,HAK,ZJHK,2020
+48,Fort Lauderdale–Hollywood International Airport,"Broward County, Florida",United States,16484132,,55.1,FLL,KFLL,2020
+49,Noi Bai International Airport,"Soc Son, Hanoi",Vietnam,16473214,,43.8,HAN,VVNB,2020
+50,San Francisco International Airport,"San Mateo County, California",United States,16427801,,71.4,SFO,KSFO,2020
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,75704760,1.0,76.4,ATL,KATL,2021
+2,Dallas Fort Worth International Airport,"Dallas-Fort Worth, Texas",United States,62465756,2.0,58.7,DFW,KDFW,2021
+3,Denver International Airport,"Denver, Colorado",United States,58828552,5.0,74.4,DEN,KDEN,2021
+4,O'Hare International Airport,"Chicago, Illinois",United States,54020399,9.0,75.1,ORD,KORD,2021
+5,Los Angeles International Airport,"Los Angeles, California",United States,48007284,10.0,66.8,LAX,KLAX,2021
+6,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,43302230,12.0,59.2,CLT,KCLT,2021
+7,Orlando International Airport,"Orlando, Florida",United States,40351068,20.0,86.7,MCO,KMCO,2021
+8,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,40249679,7.0,8.0,CAN,ZGGG,2021
+9,Chengdu Shuangliu International Airport,"Shuangliu-Wuhou, Chengdu, Sichuan",China,40117496,6.0,1.5,CTU,ZUUU,2021
+10,Harry Reid International Airport,"Las Vegas, Nevada",United States,39710493,12.0,78.6,LAS,KLAS,2021
+11,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,38846713,15.0,77.2,PHX,KPHX,2021
+12,Miami International Airport,"Miami-Dade County, Florida",United States,37302456,26.0,99.9,MIA,KMIA,2021
+13,Indira Gandhi International Airport,Delhi,India,37139957,3.0,30.3,DEL,VIDP,2021
+14,Istanbul Airport,"Arnavutköy, Istanbul",Turkey,36988563,6.0,58.5,IST,LTFM,2021
+15,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,36358185,10.0,4.1,SZX,ZGSZ,2021
+16,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,36154015,16.0,80.4,SEA,KSEA,2021
+17,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,36056614,8.0,64.0,MEX,MMMX,2021
+18,Chongqing Jiangbei International Airport,"Yubei, Chongqing",China,35766284,12.0,2.4,CKG,ZUCK,2021
+19,Shanghai Hongqiao International Airport,"Changning-Minhang, Shanghai",China,33207337,9.0,6.6,SHA,ZSSS,2021
+20,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,32639013,13.0,5.4,PEK,ZBAA,2021
+21,Kunming Changshui International Airport,"Guandu, Kunming, Yunnan",China,32221195,12.0,2.3,KMG,ZPPP,2021
+22,Shanghai Pudong International Airport,"Pudong, Shanghai",China,32206814,8.0,5.7,PVG,ZSPD,2021
+23,George Bush Intercontinental Airport,"Houston, Texas",United States,31866308,16.0,75.0,IAH,KIAH,2021
+24,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,31000000,11.0,60.4,CGK,WIII,2021
+25,Sheremetyevo International Airport,"Khimki, Moscow Oblast",Russia,30943456,9.0,56.4,SVO,UUEE,2021
+26,John F. Kennedy International Airport,"Queens, New York, New York",United States,30788322,19.0,85.1,JFK,KJFK,2021
+27,Xi'an Xianyang International Airport,"Weicheng, Xianyang, Shaanxi",China,30173312,16.0,2.9,XIY,ZLXY,2021
+28,Dubai International Airport,"Garhoud, Dubai",United Arab Emirates,29110609,9.0,12.7,DXB,OMDB,2021
+29,Newark Liberty International Airport,"Newark, New Jersey",United States,29049552,25.0,82.8,EWR,KEWR,2021
+30,Hangzhou Xiaoshan International Airport,"Xiaoshan, Hangzhou, Zhejiang",China,28163820,13.0,0.2,HGH,ZSHC,2021
+31,Fort Lauderdale–Hollywood International Airport,"Broward County, Florida",United States,28076808,17.0,70.3,FLL,KFLL,2021
+32,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,26201698,11.0,17.7,CDG,LFPG,2021
+33,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,25876429,21.0,15.4,HND,RJTT,2021
+34,Jeju International Airport,"Jeju City, Jeju Province",South Korea,25802550,5.0,22.6,CJU,RKPC,2021
+35,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,25500000,5.0,22.1,AMS,EHAM,2021
+36,Moscow Domodedovo Airport,"Domodedovo, Moscow Oblast",Russia,25065087,16.0,52.9,DME,UUDD,2021
+37,Beijing Daxing International Airport,"Daxing District, Beijing",China,25051012,16.0,55.7,PKX,ZBAD,2021
+38,Istanbul Sabiha Gökçen International Airport,"Pendik, Istanbul",Turkey,24991916,4.0,47.2,SAW,LTFJ,2021
+39,Frankfurt Airport,"Frankfurt, Hesse",Germany,24812849,2.0,32.2,FRA,EDDF,2021
+40,Minneapolis/St Paul International Airport,"St. Paul, Minnesota",United States,24429003,17.0,64.4,MSP,KMSP,2021
+41,San Francisco International Airport,"San Mateo County, California",United States,24343627,9.0,48.2,SFO,KSFO,2021
+42,São Paulo/Guarulhos International Airport,Guarulhos,Brazil,24164330,11.0,18.7,GRU,SBGR,2021
+43,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,24121535,2.0,41.1,MAD,LEMD,2021
+44,Detroit Metropolitan Airport,"Detroit, Michigan",United States,23610765,8.0,67.4,DTW,KDTW,2021
+45,Logan International Airport,"East Boston, Massachusetts",United States,22695835,,79.6,BOS,KBOS,2021
+46,Gimpo International Airport,"Gangseo District, Seoul",South Korea,22525417,6.0,29.1,GMP,RKSS,2021
+47,Cancún International Airport,Cancún,Mexico,22393906,,82.1,CUN,MMUN,2021
+48,Salt Lake City International Airport,"Salt Lake City, Utah",United States,22383878,,78.2,SLC,KSLC,2021
+49,Antalya Airport,Antalya,Turkey,22012298,,125.8,AYT,LTAI,2021
+50,Changsha Huanghua International Airport,Changsha,China,19983064,14.0,4.0,CSX,ZGHA,2021
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,93699630,,23.8,ATL,KATL,2022
+2,Dallas Fort Worth International Airport,"Dallas–Fort Worth, Texas",United States,73362946,,17.5,DFW,KDFW,2022
+3,Denver International Airport,"Denver, Colorado",United States,69286461,,17.8,DEN,KDEN,2022
+4,O'Hare International Airport,"Chicago, Illinois",United States,68340619,,26.5,ORD,KORD,2022
+5,Dubai International Airport,"Garhoud, Dubai, Dubai",United Arab Emirates,66069981,23.0,127.0,DXB,OMDB,2022
+6,Los Angeles International Airport,"Los Angeles, California",United States,65924298,1.0,37.3,LAX,KLAX,2022
+7,Istanbul Airport,"Arnavutköy, Istanbul",Turkey,64289107,7.0,73.8,IST,LTFM,2022
+8,Heathrow Airport,"Hillingdon, London",United Kingdom,61614508,46.0,217.7,LHR,EGLL,2022
+9,Indira Gandhi International Airport,"Palam, Delhi",India,59490074,4.0,60.2,DEL,VIDP,2022
+10,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,57474033,22.0,119.4,CDG,LFPG,2022
+11,John F. Kennedy International Airport,"Queens, New York, New York",United States,55287693,15.0,79.6,JFK,KJFK,2022
+12,Harry Reid International Airport,"Las Vegas, Nevada",United States,52694312,2.0,32.6,LAS,KLAS,2022
+13,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,52472188,22.0,105.8,AMS,EHAM,2022
+14,Miami International Airport,"Miami-Dade County, Florida",United States,50684396,2.0,35.9,MIA,KMIA,2022
+15,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,50602864,28.0,109.8,MAD,LEMD,2022
+16,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,50290705,17.0,92.5,HND,RJTT,2022
+17,Orlando International Airport,"Orlando, Florida",United States,50176103,10.0,24.2,MCO,KMCO,2022
+18,Frankfurt Airport,"Frankfurt, Hesse",Germany,48918482,21.0,97.2,FRA,EDDF,2022
+19,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,47758605,13.0,10.3,CLT,KCLT,2022
+20,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,46261729,3.0,28.3,MEX,MMMX,2022
+21,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,45964321,5.0,27.1,SEA,KSEA,2022
+22,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,44397854,11.0,14.3,PHX,KPHX,2022
+23,Newark Liberty International Airport,"Newark, New Jersey",United States,43565254,6.0,50.0,EWR,KEWR,2022
+24,San Francisco International Airport,"San Mateo County, California",United States,42210201,16.0,73.5,SFO,KSFO,2022
+25,Josep Tarradellas Barcelona–El Prat Airport,Barcelona,Spain,41616302,33.0,120.6,BCN,LEBL,2022
+26,George Bush Intercontinental Airport,"Houston, Texas",United States,40974831,3.0,21.7,IAH,KIAH,2022
+27,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,38791168,,113.3,CGK,WIII,2022
+28,Chhatrapati Shivaji Maharaj International Airport,"Santacruz-Sahar, Mumbai, Maharashtra",India,38332106,23.0,93.7,BOM,VABB,2022
+29,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,36356109,,186.4,YYZ,CYYZ,2022
+30,Logan International Airport,"East Boston, Boston, Massachusetts",United States,36112473,14.0,59.1,BOS,KBOS,2022
+31,Hamad International Airport,Doha,Qatar,35730482,,101.8,DOH,OTHH,2022
+32,El Dorado International Airport,Bogotá,Colombia,35362529,20.0,60.1,BOG,SKBO,2022
+33,São Paulo/Guarulhos International Airport,Guarulhos,Brazil,34466946,8.0,42.6,GRU,SBGR,2022
+34,Tan Son Nhat International Airport,"Tan Binh, Ho Chi Minh City",Vietnam,34278320,,233.2,SGN,VVTS,2022
+35,London Gatwick Airport,"Crawley, West Sussex",United Kingdom,32848088,,424.7,LGW,EGKK,2022
+36,Singapore Changi Airport,"Changi, East Region",Singapore,32202000,,954.8,SIN,WSSS,2022
+37,Fort Lauderdale–Hollywood International Airport,"Broward County, Florida",United States,31686404,7.0,12.9,FLL,KFLL,2022
+38,King Abdulaziz International Airport,Jeddah,Saudi Arabia,31648324,,134.6,JED,OEJN,2022
+39,Munich Airport,"Freising, Bavaria",Germany,31642738,,153.2,MUC,EDDM,2022
+40,Antalya Airport,Antalya,Turkey,31228377,8.0,41.7,AYT,LTAI,2022
+41,Istanbul Sabiha Gökçen International Airport,"Pendik, Istanbul",Turkey,30780357,4.0,23.2,SAW,LTFJ,2022
+42,Minneapolis/St Paul International Airport,"St. Paul, Minnesota",United States,30622784,3.0,25.4,MSP,KMSP,2022
+43,Cancún International Airport,Cancún,Mexico,30484094,3.0,36.1,CUN,MMUN,2022
+44,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,30329426,,287.8,MNL,RPLL,2022
+45,Jeju International Airport,Jeju City,South Korea,29703669,12.0,15.1,CJU,RKPC,2022
+46,"Rome–Fiumicino International Airport ""Leonardo da Vinci""","Fiumicino, Rome metro",Italy,29346365,,151.8,FCO,LIRF,2022
+47,Orly Airport,"Orly, Paris metro",France,29187269,,85.6,ORY,LFPO,2022
+48,Sydney Kingsford Smith Airport,"Mascot, New South Wales",Australia,29094483,,265.8,SYD,YSSY,2022
+49,LaGuardia Airport,"Queens, New York, New York",United States,28997592,,85.9,LGA,KLGA,2022
+50,Suvarnabhumi Airport,"Racha Thewa, Bangkok metro",Thailand,28754314,,407.6,BKK,VTBS,2022
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,104653451,,11.7,ATL,KATL,2023
+2,Dubai International Airport,"Garhoud, Dubai, Dubai",United Arab Emirates,86994365,3.0,31.7,DXB,OMDB,2023
+3,Dallas Fort Worth International Airport,"Dallas–Fort Worth, Texas",United States,81755538,1.0,11.4,DFW,KDFW,2023
+4,Heathrow Airport,"Hillingdon, London",United Kingdom,79183364,4.0,28.5,LHR,EGLL,2023
+5,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,78719302,11.0,55.1,HND,RJTT,2023
+6,Denver International Airport,"Denver, Colorado",United States,77837917,3.0,12.3,DEN,KDEN,2023
+7,Istanbul Airport,"Arnavutköy, Istanbul",Turkey,76027321,,18.3,IST,LTFM,2023
+8,Los Angeles International Airport,"Los Angeles, California",United States,75050875,2.0,13.8,LAX,KLAX,2023
+9,O'Hare International Airport,"Chicago, Illinois",United States,73894226,5.0,8.1,ORD,KORD,2023
+10,Indira Gandhi International Airport,"Palam, Delhi",India,72214841,1.0,21.4,DEL,VIDP,2023
+11,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,67421316,1.0,17.3,CDG,LFPG,2023
+12,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,63169169,,142.0,CAN,ZGGG,2023
+13,John F. Kennedy International Airport,"Queens, New York, New York",United States,62464331,2.0,13.0,JFK,KJFK,2023
+14,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,61889586,1.0,18.0,AMS,EHAM,2023
+15,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,60181604,,18.9,MAD,LEMD,2023
+16,Frankfurt Airport,"Frankfurt, Hesse",Germany,59355389,2.0,21.3,FRA,EDDF,2023
+17,Singapore Changi Airport,"Changi, East Region",Singapore,58946000,19.0,83.1,SIN,WSSS,2023
+18,Orlando International Airport,"Orlando, Florida",United States,57735726,1.0,15.1,MCO,KMCO,2023
+19,Harry Reid International Airport,"Las Vegas, Nevada",United States,57666456,7.0,9.4,LAS,KLAS,2023
+20,Seoul Incheon International Airport,Incheon,South Korea,56235412,,213.8,ICN,RKSI,2023
+21,Shanghai Pudong International Airport,"Pudong, Shanghai",China,54476397,,284.2,PVG,ZSPD,2023
+22,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,53445770,3.0,11.9,CLT,KCLT,2023
+23,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,52879156,,316.2,PEK,ZBAA,2023
+24,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,52734934,,144.6,SZX,ZGSZ,2023
+25,Miami International Airport,"Miami-Dade County, Florida",United States,52340934,11.0,3.3,MIA,KMIA,2023
+26,Suvarnabhumi Airport,"Racha Thewa, Bangkok metro",Thailand,51699104,24.0,79.8,BKK,VTBS,2023
+27,Chhatrapati Shivaji Maharaj International Airport,"Santacruz-Sahar, Mumbai, Maharashtra",India,51589040,1.0,34.6,BOM,VABB,2023
+28,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,50877260,7.0,10.7,SEA,KSEA,2023
+29,San Francisco International Airport,"San Mateo County, California",United States,50196094,5.0,18.7,SFO,KSFO,2023
+30,Josep Tarradellas Barcelona–El Prat Airport,Barcelona,Spain,49883928,5.0,19.9,BCN,LEBL,2023
+31,Newark Liberty International Airport,"Newark, New Jersey",United States,49084774,8.0,12.7,EWR,KEWR,2023
+32,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,49080532,5.0,23.9,CGK,WIII,2023
+33,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,48654432,11.0,9.6,PHX,KPHX,2023
+34,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,48416008,14.0,4.7,MEX,MMMX,2023
+35,Kuala Lumpur International Airport,"Sepang, Selangor",Malaysia,47242468,,86.0,KUL,WMKK,2023
+36,George Bush Intercontinental Airport,"Houston, Texas",United States,46168662,10.0,12.7,IAH,KIAH,2023
+37,Hamad International Airport,Doha,Qatar,45916098,6.0,28.5,DOH,OTHH,2023
+38,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,45300322,6.0,46.7,MNL,RPLL,2023
+39,Chengdu Tianfu International Airport,"Jianyang, Chengdu, Sichuan",China,44786032,,237.4,TFU,ZUTF,2023
+40,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,44761805,11.0,23.1,YYZ,CYYZ,2023
+41,Chongqing Jiangbei International Airport,Chongqing,China,44657268,,106.1,CKG,ZUCK,2023
+42,King Abdulaziz International Airport,Jeddah,Saudi Arabia,42910407,4.0,35.7,JED,OEJN,2023
+43,Shanghai Hongqiao International Airport,Shanghai,China,42492745,,188.8,SHA,ZSSS,2023
+44,Kunming Changshui International Airport,"Kunming, Yunnan",China,42053214,,97.4,KMG,ZPPP,2023
+45,Xi'an Xianyang International Airport,"Xi'an, Shaanxi",China,41371228,,205.1,XIY,ZLXY,2023
+46,São Paulo/Guarulhos International Airport,São Paulo,Brazil,41307919,,19.8,GRU,SBGR,2023
+47,Hangzhou Xiaoshan International Airport,"Hangzhou, Zhejiang",China,41170470,,105.5,HGH,ZSHC,2023
+48,Gatwick Airport,"Crawley, West Sussex",United Kingdom,40905856,13.0,24.5,LGW,EGKK,2023
+49,Logan International Airport,"Boston, Massachusetts",United States,40861658,19.0,13.2,BOS,KBOS,2023
+50,Tan Son Nhat International Airport,"Tan Binh, Ho Chi Minh City",Vietnam,40738295,16.0,18.9,SGN,VVTS,2023
