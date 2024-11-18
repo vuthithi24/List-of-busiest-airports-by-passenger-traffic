@@ -1,4 +1,12 @@
-# 🛫 Top 50 sân bay đông đúc nhất
+# Đồ án "Phân tích dữ liệu sân bay" gồm:
+- _File báo cáo:_ Report_KyThuatXuLyDuLieuLon.pdf
+- _Slide báo cáo:_ Slide_KyThuatXuLyDuLieuLon.pdf
+- _File code Cào dữ liệu 50 sân bay đông đúc nhất thế giới:_ rawdata.py
+- _File code Phân tích dữ liệu sân bay ở Việt Nam:_ prediction.py
+- _File data 50 sân bay đông đúc nhất thế giới từ năm 2017 đến 2023:_ airport_data_2017_2023.csv
+- _File data các sân bay ở Việt Nam từ năm 2012 đến 2023:_ merged_airports_data_Vietnam.csv
+
+# Web - App: 🛫 Top 50 sân bay đông đúc nhất
 
 Dự án này hiển thị thông tin về top 50 sân bay đông đúc nhất dựa trên dữ liệu hành khách từ năm 2017 đến 2023. Ứng dụng được xây dựng bằng Streamlit, cung cấp giao diện tương tác để lọc dữ liệu theo quốc gia và thời gian, đồng thời hiển thị biểu đồ trực quan về lưu lượng hành khách.
 
